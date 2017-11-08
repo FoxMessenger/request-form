@@ -1,0 +1,17 @@
+.title {
+    text-align: center;    
+
+}
+
+.paragraph {
+	font-size: 12px;
+}
+
+.input--border {
+	border-radius: 5px;
+}
+
+.row--border {
+	border-style: solid;
+	color: tomato;
+}
